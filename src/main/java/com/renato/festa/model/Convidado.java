@@ -19,6 +19,7 @@ public class Convidado implements Serializable{
 	
 	private String nome;
 	private int quantidadeAcompanhantes;
+	
 	public Long getId() {
 		return id;
 	}
